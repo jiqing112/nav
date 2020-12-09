@@ -35,3 +35,6 @@ endbox
 ### 卡片分类图标
 
 分类图片采用[fontawesome](https://fontawesome.com)，复制`<i class="fas fa-music"></i>`中的`fas fa-music`到links.txt。
+
+
+反馈交流：[VPS讨论群](https://t.me/vpsqun)
